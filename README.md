@@ -59,7 +59,8 @@ The project uses **SQL for data analysis** and presents the results through **tw
 
 <div align="center">
 
-<img src="Power%20BI%20Dashboard/powerbi-dashboard.png" width="95%">
+<img width="1326" height="746" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/662ca87e-fbfa-4ae1-8710-0284ddf3acaf" />
+
 
 </div>
 
