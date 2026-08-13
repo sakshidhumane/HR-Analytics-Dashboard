@@ -82,7 +82,8 @@ The project uses **SQL for data analysis** and presents the results through **tw
 
 <div align="center">
 
-<img src="Tableau%20Dashboard/tableau-dashboard.png" width="95%">
+<img width="1577" height="850" alt="Dashboard Screenshot(2)" src="https://github.com/user-attachments/assets/c77f08dc-d163-42e7-9196-0749afc64352" />
+
 
 </div>
 
