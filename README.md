@@ -431,7 +431,7 @@ Through this project, I strengthened my ability to:
 
 [![GitHub](https://img.shields.io/badge/GitHub-sakshidhumane-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshidhumane)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+Linkedin - https://www.linkedin.com/in/sakshidhumane
 
 </div>
 
